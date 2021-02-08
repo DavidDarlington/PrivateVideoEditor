@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 001 -->
+<motion name="{74278951-9755-4b83-BA52-6513900D98BF}" nick="No Motion" frameCount="25" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="1">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 002 -->
+<motion name="{01C50F0F-C4BE-4D61-B694-3678060301DB}" nick="Move to top" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.999999</li>
+        <li>0.500000,0.800000</li>
+        <li>0.500000,0.600000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 003 -->
+<motion name="{31790DF0-38FA-43FC-AC12-3CE77CF4627A}" nick="Move to bottom" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.000000</li>
+        <li>0.500000,0.100000</li>
+        <li>0.500000,0.300000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 004 -->
+<motion name="{DBECC0A8-45E0-4a8f-AC90-EBC08C07BFD5}" nick="Move to left" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.500000</li>
+        <li>0.700000,0.500000</li>
+        <li>0.600000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 005 -->
+<motion name="{399112EF-565B-455C-865E-2342BDD38819}" nick="Move to right" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.500000</li>
+        <li>0.100000,0.500000</li>
+        <li>0.300000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 006 -->
+<motion name="{F0C2DEAC-0BF2-4299-ADA4-E26FD5BC3394}" nick="Move to upper left" frameCount="30" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.999999</li>
+        <li>0.800000,0.800000</li>
+        <li>0.700000,0.700000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 007 -->
+<motion name="{1CE37EAC-0F81-49AE-AA75-6D44F44AA91C}" nick="Move to upper right" frameCount="30" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.999999</li>
+        <li>0.200000,0.800000</li>
+        <li>0.400000,0.600000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 008 -->
+<motion name="{B97DCB2C-7A3B-47DC-B022-18C77DF7B9E4}" nick="Move to lower left" frameCount="30" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.000000</li>
+        <li>0.800000,0.200000</li>
+        <li>0.600000,0.400000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 009 -->
+<motion name="{54351E1D-5C73-420D-BAD5-E5EDECE067EF}" nick="Move to lower right" frameCount="30" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.000000</li>
+        <li>0.200000,0.200000</li>
+        <li>0.400000,0.400000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 010 -->
+<motion name="{19DF02B9-A292-4E0F-B7C6-12C170A6B23F}" nick="Move to upper right and zoom in" frameCount="50" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.999999</li>
+        <li>0.200000,0.800000</li>
+        <li>0.400000,0.600000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.200000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.300000,1.300000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 011 -->
+<motion name="{A4E36173-DC17-45A6-B738-4FA7AC79272B}" nick="Zoom in 1" frameCount="88" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 012 -->
+<motion name="{81D7BACF-A58D-4930-9F78-994D89B23279}" nick="Zoom in 2" frameCount="88" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.500000,1.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 013 -->
+<motion name="{31488BAD-0934-4645-AB65-4B425EF8A48B}" nick="Zoom in 3" frameCount="88" pointCount="3" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.900000" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.350000,1.350000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="2">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.500000,1.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 014 -->
+<motion name="{C6FD146E-3A12-48C6-9979-D1E6D072BDCD}" nick="Zoom out 1" frameCount="113" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 015 -->
+<motion name="{76171E8C-FEDD-4E76-BAF0-99D78316FA2C}" nick="Zoom out 2" frameCount="113" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.300000,0.300000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 016 -->
+<motion name="{EF48A680-608D-46F3-BA9F-59B58CC97998}" nick="Zoom out 3" frameCount="113" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 017 -->
+<motion name="{8B29CD96-44BA-4563-BDE1-9B824FBCA40A}" nick="Zoom in and out" frameCount="113" pointCount="3" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.490000" pointIdx="1">
+            <alpha>0.000000</alpha>
+            <rotate opt="1">0.000000,1.500000,1.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="2">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 018 -->
+<motion name="{2B3840B4-BAE4-44A4-B747-C77A53F16CC4}" nick="Zoom in to the top" frameCount="113" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.999999</li>
+        <li>0.500000,0.800000</li>
+        <li>0.500000,0.600000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.300000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.100000,1.100000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 019 -->
+<motion name="{058172BC-14F2-487F-AA7C-2F26A99E6EF7}" nick="Zoom in to the bottom" frameCount="113" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.000000</li>
+        <li>0.500000,0.100000</li>
+        <li>0.500000,0.300000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.300000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.100000,1.100000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 020 -->
+<motion name="{2016F929-5E85-42FC-8AAB-318290E0D333}" nick="Zoom in to the right" frameCount="25" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.500000</li>
+        <li>0.100000,0.500000</li>
+        <li>0.300000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 021 -->
+<motion name="{04D7A096-0C1A-44D8-BB3C-7BEE31E841F3}" nick="Zoom in to the left" frameCount="25" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.500000</li>
+        <li>0.700000,0.500000</li>
+        <li>0.600000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 022 -->
+<motion name="{00F7A294-52CC-47F1-9A69-F1922869E5D0}" nick="Zoom out to the right" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.500000</li>
+        <li>0.100000,0.500000</li>
+        <li>0.300000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 023 -->
+<motion name="{85475A9C-942E-4785-A1D9-20EA725A56A4}" nick="Clockwise rotate" frameCount="90" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">-45.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 024 -->
+<motion name="{378C0209-1D51-4BB7-8986-78A6F6FECF07}" nick="Clockwise rotate to zoom in 1" frameCount="25" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">-45.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 025 -->
+<motion name="{0A35CEEA-3F18-4ACE-BDF0-8771B6FDAE0E}" nick="Clockwise rotate to zoom in 2" frameCount="100" pointCount="3" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">-90.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.700000" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="2">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.200000,1.200000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 026 -->
+<motion name="{0622223B-51D5-4335-A51E-D46510DE4692}" nick="Counter clockwise rotate" frameCount="88" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">45.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 027 -->
+<motion name="{749AB925-5706-47E7-BBF8-03C60C7EC030}" nick="Rotate to zoom in 1" frameCount="100" pointCount="2" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">45.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="1">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.500000,1.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 028 -->
+<motion name="{70F5CDE4-E4D4-47AA-B9F1-2FDC382F93CE}" nick="Rotate to zoom in 2" frameCount="113" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.000000</li>
+        <li>0.999999,0.500000</li>
+        <li>0.700000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">-90.000000,0.800000,0.800000</rotate>
+        </li>
+        <li frameIdx="0.700000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">-360.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">-360.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 029 -->
+<motion name="{D1895662-BE7B-4617-AC72-6E59B479A0CE}" nick="Stretch to left" frameCount="25" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.999999,0.500000</li>
+        <li>0.700000,0.500000</li>
+        <li>0.600000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 030 -->
+<motion name="{EEC76DD7-F086-43BF-8D01-FF272279ACBA}" nick="Stretch to right" frameCount="88" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.000000,0.500000</li>
+        <li>0.100000,0.500000</li>
+        <li>0.300000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.300000,1.300000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 031 -->
+<motion name="{2C88B091-85C2-4083-A413-EA5490F8468C}" nick="Stretch in and zoom in 1" frameCount="113" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="0" count="5">
+        <li>0.999999,0.000000</li>
+        <li>0.870833,0.812500</li>
+        <li>0.637500,0.656250</li>
+        <li>0.591667,0.633681</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.100000,0.100000</rotate>
+        </li>
+        <li frameIdx="0.300000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.100000,1.100000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 032 -->
+<motion name="{50F4A287-8B58-4381-9D6B-8213DA1909AA}" nick="Stretch in and zoom in 2" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="0" count="5">
+        <li>0.000000,0.000000</li>
+        <li>0.129167,0.812500</li>
+        <li>0.362500,0.656250</li>
+        <li>0.408333,0.633681</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.100000,0.100000</rotate>
+        </li>
+        <li frameIdx="0.300000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 033 -->
+<motion name="{67F7E753-4CD4-4F7C-87CD-E88F72622BC0}" nick="Bounce to zoom in 1" frameCount="88" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="7">
+        <li>0.500000,0.900000</li>
+        <li>0.500000,0.140625</li>
+        <li>0.845833,0.133681</li>
+        <li>0.995833,0.963542</li>
+        <li>0.894444,0.961806</li>
+        <li>0.705556,0.737847</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="4">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.100000,0.100000</rotate>
+        </li>
+        <li frameIdx="0.5" pointIdx="660">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.600000,0.600000</rotate>
+        </li>
+        <li frameIdx="0.700000" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.700000,0.700000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 034 -->
+<motion name="{AAA8B260-C9AB-4921-AD7D-B28DF998896C}" nick="Bounce to zoom in 2" frameCount="63" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="7">
+        <li>0.500000,0.900000</li>
+        <li>0.500000,0.140625</li>
+        <li>0.845833,0.133681</li>
+        <li>0.995833,0.963542</li>
+        <li>0.894444,0.961806</li>
+        <li>0.705556,0.737847</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="4">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.600000,0.600000</rotate>
+        </li>
+        <li frameIdx="0.500000" pointIdx="660">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.300000,0.300000</rotate>
+        </li>
+        <li frameIdx="0.600000" pointIdx="660">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.300000,0.300000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 035 -->
+<motion name="{27BCFDE6-CE46-4AA5-955F-E5BBD0353EB6}" nick="Bounce to zoom out 1" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="5">
+        <li>0.644444,0.904514</li>
+        <li>0.763889,0.928819</li>
+        <li>0.550000,0.750000</li>
+        <li>0.505556,0.597222</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.750000,0.750000</rotate>
+        </li>
+        <li frameIdx="0.3" pointIdx="113">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.650000,0.650000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,0.500000,0.500000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 036 -->
+<motion name="{39FF4761-0F9E-422D-B1FE-EC5945A96CAB}" nick="Fly to zoom in" frameCount="100" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="6">
+        <li>0.000000,0.800000</li>
+        <li>0.300000,0.800000</li>
+        <li>0.700000,0.800000</li>
+        <li>0.868056,0.812500</li>
+        <li>0.800000,0.666667</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="4">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">90.000000,0.500000,0.500000</rotate>
+        </li>
+        <li frameIdx="0.300000" pointIdx="480">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">720.000000,0.300000,0.300000</rotate>
+        </li>
+        <li frameIdx="0.500000" pointIdx="680">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,0.300000,0.300000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 037 -->
+<motion name="{65E49E19-9F93-413E-9218-D51863C7D3DE}" nick="Fade" frameCount="38" pointCount="3" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="0">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+        <li>0.500000,0.500000</li>
+    </curve>
+    <morph count="3">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>0.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.250000" pointIdx="1">
+            <alpha>0.700000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="2">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>
+
+<!-- 038 -->
+<motion name="{33E2B414-C097-47E7-B264-BB9D0410CAC5}" nick="Marquee(Right-To-Left)" frameCount="375" pointCount="1000" size="720.000000,576.000000" scale="1.000000,1.000000" offset="0.000000,0.000000" loop="1">
+    <curve type="1" count="4">
+        <li>0.500000,0.500000</li>
+        <li>0.166667,0.500000</li>
+        <li>-0.166666,0.500000</li>
+        <li>-0.500000,0.500000</li>
+    </curve>
+    <morph count="2">
+        <li frameIdx="0" pointIdx="0">
+            <alpha>1.000000</alpha>
+            <rotate opt="1">0.000000,1.000000,1.000000</rotate>
+        </li>
+        <li frameIdx="0.999999" pointIdx="999">
+            <alpha>1.000000</alpha>
+            <rotate opt="0">0.000000,1.000000,1.000000</rotate>
+        </li>
+    </morph>
+    <demo/>
+</motion>

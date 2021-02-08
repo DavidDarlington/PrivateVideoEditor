@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Masks>
+ <Mask FriendName="01" GUID="{7A66FC80-B880-450E-AFC6-8BC423F0BE8F}">
+    <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="02" GUID="{72D577F2-4702-4840-9AFC-4BC16A4B0B21}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="03" GUID="{F06EF8E1-92D8-49CE-A050-E9C1B61BAA85}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="04" GUID="{63CE4230-9E2B-4104-AD7F-69EA23DB7DE4}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="05" GUID="{F3D1CAE1-CC2B-409A-8F6A-36D25337D108}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="06" GUID="{33DAF2CE-1881-46A9-89EE-973D2D63311B}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="07" GUID="{C4692BFD-6191-497E-AB55-2C8DF8D4F641}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="08" GUID="{F693A1BB-7B29-48C9-BED4-F46A27ADE352}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="09" GUID="{88602ABD-BB53-4F68-A947-8458D2022032}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="10" GUID="{116BC3FA-3C46-4337-8139-7D44F366A6DF}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="11" GUID="{F420F902-1A33-410D-994D-1ABD99052D86}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="12" GUID="{1AC5A8FB-ABAA-4932-8C40-DB32D8A2DE11}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="13" GUID="{3A400C6E-3925-44C4-B13B-D35E8F74B88D}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="14" GUID="{DC074371-6FBE-4B78-B332-2EDE06C04057}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="15" GUID="{BBD8B37D-62FA-4093-8035-88E0F92B3A70}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="16" GUID="{67D592CF-42DA-4A00-9075-202546C9A8E5}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="17" GUID="{DF578B6B-C7F6-41E4-95E1-B633C16A81D4}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="18" GUID="{466A70DD-1D15-4D76-B956-42216C3AF5D1}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="19" GUID="{F8D3F1C1-0553-44B3-894D-FC052DA56C72}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="20" GUID="{67F63175-B79C-49B9-97D7-FB3736849291}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="21" GUID="{D56D3716-ABBB-44B8-A37A-F91A897C1E63}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="22" GUID="{EDD4EE73-1BC0-4A71-ADC8-CC54137C87C0}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="23" GUID="{0CED0114-3668-4E9F-AFFF-649B9EBEC2C4}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="24" GUID="{421B082E-DDED-49A1-BB29-8B5EAA066875}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="25" GUID="{C576D344-E870-4B86-96C2-B658E497536F}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="26" GUID="{34876F2B-9C30-4876-81C4-27A54B344881}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="27" GUID="{27FFF24F-329C-4F70-A520-6E58CE5ADA3D}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="28" GUID="{4B5BD90F-A0DA-46D6-A509-B7529E8A21A8}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="29" GUID="{4E957C9B-0A1F-485B-B077-D181824C2A67}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="30" GUID="{277F853F-3E3F-4FB6-9281-DB12A4DCD30D}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="31" GUID="{EC9C3B35-F5CB-40D2-AD0E-25B80F000BBD}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="32" GUID="{4F9B9E92-C7B5-4610-A1AF-FF7AE45327A2}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="33" GUID="{4C180AAB-0188-436B-AB0A-57CCEA5EB9B3}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="34" GUID="{A90C9330-7C9D-4B0C-888F-B3031C39D586}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="35" GUID="{2B38203E-CBF0-4DB9-B57A-CF3219F252EE}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="36" GUID="{BA3664A7-BABF-4F22-B7FC-A027538F69A6}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="37" GUID="{1B6F12DF-B822-4E82-B097-EEEDF47FA3B4}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="38" GUID="{B3827005-367E-4E75-8132-86B33E4C86AB}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="39" GUID="{C578B5A6-3C00-44AD-B0D0-2BED88C4564A}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="40" GUID="{BF2244A7-25B7-4541-9886-8F3AD1B013D0}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="41" GUID="{5C3A495C-FD4C-4F63-81D7-00FC33692488}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="42" GUID="{40F76BBC-513F-44C2-8B54-8775DF023642}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+  <Mask FriendName="43" GUID="{E9AAC28B-7195-4396-A4D3-8998833B3B2B}">
+     <Params>
+      <Param FriendName="Width" VariantName="Width" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Height" VariantName="Height" type="float" default="1.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Left" VariantName="Left" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+      <Param FriendName="Top" VariantName="Top" type="float" default="0.0" range_min="0.0" range_max="1.0" />
+    </Params>
+  </Mask>
+</Masks>

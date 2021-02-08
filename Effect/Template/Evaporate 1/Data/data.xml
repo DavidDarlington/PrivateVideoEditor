@@ -1,0 +1,16 @@
+
+        <?xml version="1.0" encoding="UTF-8"?>
+        <TimeLine>
+        <Properties Count="9">
+        <Property key="z.FilterData" type="std::wstring" value="%TemplatePath%/filter.xml"/>
+        <Property key="Level" type="int" value="0"/>
+        <Property key="Name" type="std::wstring" value="ggfggg"/>
+        <Property key="NLEVersion" type="std::wstring" value="(5, 5, 2, 10)"/>
+        <Property key="REFCLSID" type="GUID" value="{A5BD36B8-CE3C-6CB3-2F48-6DF82AD348E0}"/>
+        <Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+        <Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+        <Property key="Render.Mode" type="int" value="1"/>
+        <Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+        </Properties>
+        </TimeLine>
+        
