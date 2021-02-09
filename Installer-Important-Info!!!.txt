@@ -1,0 +1,1 @@
+The installer will be added to the archive, as it has a lot of weight for the GitHub.
